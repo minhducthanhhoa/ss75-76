@@ -1,0 +1,30 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Throwback Hip Bag",
+        "price": 30,
+        "quantity": 20,
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "https://s.alicdn.com/@sc04/kf/HTB1nD_3tnlYBeNjSszcq6zwhFXaD.jpg_300x300.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Lie Lie Bag",
+        "price": 30,
+        "quantity": 20,
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "https://neriinstore.com/wp-content/uploads/2022/07/Tui-xach-nu-sang-trong-NE17-14.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Beautiful handbag",
+        "price": 30,
+        "quantity": 20,
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "https://s.alicdn.com/@sc04/kf/H46809c4e8b714779b4a0196969af2e68n.jpg_300x300.jpg"
+      }
+    ],
+    "cart": []
+  }
+  
